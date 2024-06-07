@@ -44,7 +44,7 @@ The HTML File Classifier performs the following tasks:
 
 ## File Structure
 
-- **YourScript.py**: Main Python script containing the classifier logic and Streamlit app.
+- **sample.py**: Main Python script containing the classifier logic and Streamlit app.
 - **requirements.txt**: List of Python dependencies.
 - **README.md**: This file providing an overview of the project.
 
