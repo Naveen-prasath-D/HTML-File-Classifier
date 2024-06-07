@@ -23,7 +23,7 @@ def extract_text_from_html(file_path):
 # Load data
 data = []
 labels = []
-base_path = "C:\\Users\\HP\\Downloads\\data1"  # Adjust the path to your data folder
+base_path = "YOUR_PATH"  # Adjust the path to your data folder
 
 for category in os.listdir(base_path):
     category_path = os.path.join(base_path, category)
